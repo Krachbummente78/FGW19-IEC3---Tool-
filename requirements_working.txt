@@ -1,0 +1,6 @@
+streamlit==1.31.0
+pdfplumber==0.11.0
+pypdf==4.0.0
+numpy==1.26.4
+reportlab==4.2.0
+Pillow
