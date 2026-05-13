@@ -1,6 +1,0 @@
-streamlit==1.28.0
-pdfplumber==0.10.3
-pypdf==3.17.4
-numpy==1.26.2
-matplotlib==3.8.2
-pillow==10.1.0
